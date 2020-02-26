@@ -59,7 +59,7 @@ Reproduce the following graphs as close as you can. For each graph, write two se
 
 1.  Univariate distribution (20 points).
 
-    ![](assignment4_v2solution_files/figure-markdown_github/unnamed-chunk-2-1.png)
+    ![](assignment4_myfiles/figure-markdown_github/unnamed-chunk-2-1.png)
 
 2.  Line chart (20 points). The lines show the non-parametric association between age and monthly earnings for men and women.
 
